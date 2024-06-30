@@ -3,6 +3,6 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Manu's Segelabenteuer
-logo: /assets/img/profilepic.jpg
+logo: /assets/img/profilepicc.jpg
 description: Minimal is a theme for GitHub Pages.
 
