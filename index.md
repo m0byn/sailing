@@ -54,7 +54,7 @@ end
 
 # Segeltörns
 
-| Datum        | Länge | Revier                     | Kategorie  | Typ      | Link |
+| Datum        | Tage  | Revier                     | Kategorie  | Typ      | Link |
 |:-------------|:------|:---------------------------|------------|----------|---------------------------------------------------------------------------|
 | 19.07.2024   | 7     | Lofoten (Norwegen)         | Meilen     | Monohull | [Link](https://join-the-crew.com/de/touren/segeln-lofoten)                |
 | 17.08.2024   | 7     | Dänische Südsee            | Abenteuer  | Monohull | [Link](https://join-the-crew.com/de/touren/mitsegeln-ostsee)              |
