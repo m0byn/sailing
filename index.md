@@ -49,11 +49,13 @@ end
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### Header 6
+# Segeltörns
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
+Typ, 
+
+| Datum        | Länge | Revier             | Kategorie | Typ      | Link |
+|:-------------|:------|:-------------------|-----------|----------|------|
+| 19.07.2024   | 7     | Lofoten (Norwegen) | Meilen    | Monohull | [Link]](https://join-the-crew.com/de/destinationen/norwegen)
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
