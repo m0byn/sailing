@@ -63,7 +63,7 @@ end
 | 28.09.2024   | 7     | Skippertraining Kroatien   | Ausbildung | Monohull | [Link](https://join-the-crew.com/de/touren/skippertraining-kroatien)      |
 | 19.10.2024   | 7     | Skippertraining Peloponnes | Ausbildung | Monohull | [Link](https://join-the-crew.com/de/touren/skippertraining-griechenland)  |
 
-Außerhalb dieser Blocks bin ich jederzeit für Gruppenbuchungen bzw. private Törns verfügbar - einfach melden! Des Weiteren ist es nach Absprache auch möglich, von einem geplanten Törn auf eine Gruppenbuchung im gleichen Revier zu wechseln.
+Außerhalb dieser Törns bin ich jederzeit für Gruppenbuchungen bzw. private Törns verfügbar - einfach melden! Des Weiteren ist es nach Absprache auch möglich, von einem geplanten Törn auf eine Gruppenbuchung im gleichen Revier zu wechseln.
 
 <!--
 
