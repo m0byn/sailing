@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
@@ -49,6 +49,9 @@ end
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
+-->
+
+
 # Segeltörns
 
 | Datum        | Länge | Revier                     | Kategorie  | Typ      | Link |
@@ -60,15 +63,13 @@ end
 | 28.09.2024   | 7     | Skippertraining Kroatien   | Ausbildung | Monohull | [Link](https://join-the-crew.com/de/touren/skippertraining-kroatien)      |
 | 19.10.2024   | 7     | Skippertraining Peloponnes | Ausbildung | Monohull | [Link](https://join-the-crew.com/de/touren/skippertraining-griechenland)  |
 
-
-
-
-
-
-
 ### There's a horizontal rule below this.
 
 * * *
+
+Außerhalb dieser Blocks bin ich jederzeit für Gruppenbuchungen bzw. private Törns verfügbar - einfach melden! Des Weiteren ist es nach Absprache auch möglich, von einem geplanten Törn auf eine Gruppenbuchung im gleichen Revier zu wechseln.
+
+<!--
 
 ### Here is an unordered list:
 
@@ -129,3 +130,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+-->
