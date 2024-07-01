@@ -51,14 +51,20 @@ end
 
 # Segeltörns
 
-Typ, 
+| Datum        | Länge | Revier                     | Kategorie  | Typ      | Link |
+|:-------------|:------|:---------------------------|------------|----------|---------------------------------------------------------------------------|
+| 19.07.2024   | 7     | Lofoten (Norwegen)         | Meilen     | Monohull | [Link](https://join-the-crew.com/de/touren/segeln-lofoten)                |
+| 17.08.2024   | 7     | Dänische Südsee            | Abenteuer  | Monohull | [Link](https://join-the-crew.com/de/touren/mitsegeln-ostsee)              |
+| 14.09.2024   | 7     | SKS Kroatien               | Ausbildung | Monohull | [Link](https://join-the-crew.com/de/touren/sks-ausbildungstoern-kroatien) |
+| 21.09.2024   | 7     | SKS Kroatien               | Ausbildung | Monohull | [Link](https://join-the-crew.com/de/touren/sks-ausbildungstoern-kroatien) |
+| 28.09.2024   | 7     | Skippertraining Kroatien   | Ausbildung | Monohull | [Link](https://join-the-crew.com/de/touren/skippertraining-kroatien)      |
+| 19.10.2024   | 7     | Skippertraining Peloponnes | Ausbildung | Monohull | [Link](https://join-the-crew.com/de/touren/skippertraining-griechenland)  |
 
-| Datum        | Länge | Revier             | Kategorie | Typ      | Link |
-|:-------------|:------|:-------------------|-----------|----------|------|
-| 19.07.2024   | 7     | Lofoten (Norwegen) | Meilen    | Monohull | [Link]](https://join-the-crew.com/de/destinationen/norwegen)
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+
+
+
+
+
 
 ### There's a horizontal rule below this.
 
