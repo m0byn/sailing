@@ -56,13 +56,15 @@ end
 
 | Datum        | Tage  | Revier                     | Kategorie  | Typ      | Link |
 |:-------------|:------|:---------------------------|------------|----------|---------------------------------------------------------------------------|
-| 19.07.2024   | 7     | Lofoten (Norwegen)         | Meilen     | Monohull | [Link](https://join-the-crew.com/de/touren/segeln-lofoten)                |
-| 17.08.2024   | 7     | Dänische Südsee            | Abenteuer  | Monohull | [Link](https://join-the-crew.com/de/touren/mitsegeln-ostsee)              |
-| 24.08.2024   | 7     | Dänische Südsee            | Abenteuer  | Monohull | [Link](https://join-the-crew.com/de/touren/mitsegeln-ostsee)              |
-| 14.09.2024   | 7     | SKS Kroatien               | Ausbildung | Monohull | [Link](https://join-the-crew.com/de/touren/sks-ausbildungstoern-kroatien) |
-| 21.09.2024   | 7     | SKS Kroatien               | Ausbildung | Monohull | [Link](https://join-the-crew.com/de/touren/sks-ausbildungstoern-kroatien) |
-| 28.09.2024   | 7     | Skippertraining Kroatien   | Ausbildung | Monohull | [Link](https://join-the-crew.com/de/touren/skippertraining-kroatien)      |
-| 19.10.2024   | 7     | Skippertraining Peloponnes | Ausbildung | Monohull | [Link](https://join-the-crew.com/de/touren/skippertraining-griechenland)  |
+| 19.07.2024   | 7     | Lofoten (Norwegen)         | Meilen     | Monohull  | [Link](https://join-the-crew.com/de/touren/segeln-lofoten)                |
+| 17.08.2024   | 7     | Dänische Südsee            | Abenteuer  | Monohull  | [Link](https://join-the-crew.com/de/touren/mitsegeln-ostsee)              |
+| 24.08.2024   | 7     | Dänische Südsee            | Abenteuer  | Monohull  | [Link](https://join-the-crew.com/de/touren/mitsegeln-ostsee)              |
+| 14.09.2024   | 7     | SKS Kroatien               | Ausbildung | Monohull  | [Link](https://join-the-crew.com/de/touren/sks-ausbildungstoern-kroatien) |
+| 21.09.2024   | 7     | SKS Kroatien               | Ausbildung | Monohull  | [Link](https://join-the-crew.com/de/touren/sks-ausbildungstoern-kroatien) |
+| 28.09.2024   | 7     | Skippertraining Kroatien   | Ausbildung | Monohull |  [Link](https://join-the-crew.com/de/touren/skippertraining-kroatien)      |
+| 19.10.2024   | 7     | Skippertraining Peloponnes | Ausbildung | Monohull |  [Link](https://join-the-crew.com/de/touren/skippertraining-griechenland)  |
+| 23.11.2024   | 14    | Guadeloupe                 | Übersee    | Katamaran | [Link](https://join-the-crew.com/de/touren/mitsegeln-karibik)             |
+| 08.03.2025   | 14    | Kapverden                  | Übersee    | Monohull  | [Link](https://join-the-crew.com/de/touren/segeln-kapverden)             |
 
 Außerhalb dieser Törns bin ich jederzeit für Gruppenbuchungen bzw. private Törns verfügbar - einfach melden! Des Weiteren ist es nach Absprache auch möglich, von einem geplanten Törn auf eine Gruppenbuchung im gleichen Revier zu wechseln.
 
