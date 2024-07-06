@@ -72,7 +72,7 @@ end
 
 # Kontakt:
 
-☎️ [+43 677 64991366](tel:+4367764991366)
+📱 [+43 677 64991366](tel:+4367764991366)
 
 WhatsApp: [Link](https://wa.me/message/EXGJQQVNCYIII1)
 
