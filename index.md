@@ -66,7 +66,14 @@ end
 | 23.11.2024   | 14    | Guadeloupe                 | Übersee    | Katamaran | [Link](https://join-the-crew.com/de/touren/mitsegeln-karibik)             |
 | 08.03.2025   | 14    | Kapverden                  | Übersee    | Monohull  | [Link](https://join-the-crew.com/de/touren/segeln-kapverden)             |
 
-Außerhalb dieser Törns bin ich jederzeit für Gruppenbuchungen bzw. private Törns verfügbar - einfach melden! Des Weiteren ist es nach Absprache auch möglich, von einem geplanten Törn auf eine Gruppenbuchung im gleichen Revier zu wechseln.
+Außerhalb dieser Törns bin ich jederzeit für Gruppenbuchungen bzw. private Törns verfügbar - einfach melden! Falls Du dich auf einen Törn einbuchen möchtest, bitte vorher melden 🙂 Des Weiteren ist es nach Absprache auch möglich, von einem geplanten Törn auf eine Gruppenbuchung im gleichen Revier zu wechseln.
+
+# Kontakt:
+
+☎️ [+43 677 64991366](tel:+4367764991366)
+📧 [manu.sailing@pm.me](mailto:manu.sailing@pm.me)
+
+
 
 <!--
 
