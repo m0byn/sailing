@@ -79,7 +79,7 @@ WhatsApp: [Link](https://wa.me/message/EXGJQQVNCYIII1)
 📧 [manu.sailing@pm.me](mailto:manu.sailing@pm.me)
 
 
-![Alt text](sailing/assets/img/WhatsApp.svg?raw=true&sanitize=true "Optional Title")
+![Alt text](assets/img/WhatsApp.svg?raw=true&sanitize=true "Optional Title")
 
 <!--
 
