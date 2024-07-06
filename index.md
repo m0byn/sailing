@@ -56,7 +56,7 @@ end
 
 | Datum        | Tage  | Revier                     | Kategorie  | Typ      | Link |
 |:-------------|:------|:---------------------------|------------|----------|---------------------------------------------------------------------------|
-| 19.07.2024   | 7     | Lofoten (Norwegen)         | Meilen     | Monohull  | [Link](https://join-the-crew.com/de/touren/segeln-lofoten)                |
+| 19.07.2024   | 7     | [Lofoten (Norwegen)](https://join-the-crew.com/de/touren/segeln-lofoten)         | Meilen  |
 | 17.08.2024   | 7     | Dänische Südsee            | Abenteuer  | Monohull  | [Link](https://join-the-crew.com/de/touren/mitsegeln-ostsee)              |
 | 24.08.2024   | 7     | Dänische Südsee            | Abenteuer  | Monohull  | [Link](https://join-the-crew.com/de/touren/mitsegeln-ostsee)              |
 | 14.09.2024   | 7     | SKS Kroatien               | Ausbildung | Monohull  | [Link](https://join-the-crew.com/de/touren/sks-ausbildungstoern-kroatien) |
