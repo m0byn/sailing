@@ -72,16 +72,9 @@ end
 
 # Kontakt:
 
-📱 [+43 677 64991366](tel:+4367764991366)
-
-WhatsApp: [Link](https://wa.me/message/EXGJQQVNCYIII1)
+📱 [+43 677 64991366](https://wa.me/message/EXGJQQVNCYIII1)
 
 📧 [manu.sailing@pm.me](mailto:manu.sailing@pm.me)
-
-
-![Alt text](assets/img/WhatsApp.svg?raw=true&sanitize=true | with=100)
-
-<img src="https://github.com/m0byn/sailing/blob/main/assets/img/WhatsApp.svg" width="100px">
 
 <!--
 
