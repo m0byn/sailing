@@ -67,7 +67,7 @@ end
 | 08.03.2025   | 14    | [Kapverden](https://join-the-crew.com/de/touren/segeln-kapverden)                  | Übersee    |
 
 * Außerhalb dieser Törns bin ich jederzeit für Gruppenbuchungen bzw. private Törns verfügbar - einfach melden!
-* Falls Du dich auf einen Törn einbuchen möchtest, bitte vorher melden 🙂
+* Falls Du dich auf einen Törn einbuchen möchtest, gerne vorher melden 🙂
 * Es ist nach Absprache auch möglich, von einem geplanten Törn auf eine Gruppenbuchung im gleichen Revier zu wechseln.
 
 # Kontakt:
