@@ -81,7 +81,7 @@ WhatsApp: [Link](https://wa.me/message/EXGJQQVNCYIII1)
 
 ![Alt text](assets/img/WhatsApp.svg?raw=true&sanitize=true "Optional Title")
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+<img src="https://github.com/m0byn/sailing/blob/main/assets/img/WhatsApp.svg" width:100px" />
 
 <!--
 
