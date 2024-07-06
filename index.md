@@ -74,6 +74,8 @@ end
 
 ☎️ [+43 677 64991366](tel:+4367764991366)
 
+WhatsApp: [Link](https://wa.me/message/EXGJQQVNCYIII1)
+
 📧 [manu.sailing@pm.me](mailto:manu.sailing@pm.me)
 
 
