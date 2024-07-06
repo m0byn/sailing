@@ -81,6 +81,8 @@ WhatsApp: [Link](https://wa.me/message/EXGJQQVNCYIII1)
 
 ![Alt text](assets/img/WhatsApp.svg?raw=true&sanitize=true "Optional Title")
 
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
 <!--
 
 ### Here is an unordered list:
