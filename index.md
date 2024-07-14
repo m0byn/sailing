@@ -56,15 +56,15 @@ end
 
 | Datum        | Tage  | Revier                     | Kategorie  |
 |:-------------|:------|:---------------------------|------------|
-| 19.07.2024   | 8     | [Lofoten (Norwegen)](https://join-the-crew.com/de/touren/segeln-lofoten)         | Meilen       |
-| 17.08.2024   | 8     | [Dänische Südsee](https://join-the-crew.com/de/touren/mitsegeln-ostsee)            | Abenteuer  | 
-| 24.08.2024   | 8     | [Dänische Südsee](https://join-the-crew.com/de/touren/mitsegeln-ostsee)            | Abenteuer  | 
-| 14.09.2024   | 8     | [SKS Kroatien](https://join-the-crew.com/de/touren/sks-ausbildungstoern-kroatien) | Ausbildung |
-| 21.09.2024   | 8     | [SKS Kroatien](https://join-the-crew.com/de/touren/sks-ausbildungstoern-kroatien) | Ausbildung |
-| 28.09.2024   | 8     | [Skippertraining Kroatien](https://join-the-crew.com/de/touren/skippertraining-kroatien)     | Ausbildung |
-| 19.10.2024   | 8     | [Skippertraining Peloponnes](https://join-the-crew.com/de/touren/skippertraining-griechenland) | Ausbildung |
-| 23.11.2024   | 15    | [Guadeloupe](https://join-the-crew.com/de/touren/mitsegeln-karibik)                 | Übersee   |
-| 08.03.2025   | 15    | [Kapverden](https://join-the-crew.com/de/touren/segeln-kapverden)                  | Übersee    |
+| 19.07.2024   | 8     | [Lofoten (Norwegen)](https://join-the-crew.com/de/touren/segeln-lofoten)                         | Meilen     |
+| 17.08.2024   | 8     | [Dänische Südsee](https://join-the-crew.com/de/touren/mitsegeln-ostsee)                          | Abenteuer  | 
+| 24.08.2024   | 8     | [Dänische Südsee](https://join-the-crew.com/de/touren/mitsegeln-ostsee)                          | Abenteuer  | 
+| 14.09.2024   | 8     | [SKS Kroatien](https://join-the-crew.com/de/touren/sks-ausbildungstoern-kroatien)                | Ausbildung |
+| 21.09.2024   | 8     | [SKS Kroatien](https://join-the-crew.com/de/touren/sks-ausbildungstoern-kroatien)                | Ausbildung |
+| 28.09.2024   | 8     | [Skippertraining Kroatien](https://join-the-crew.com/de/touren/skippertraining-kroatien)         | Ausbildung |
+| 19.10.2024   | 8     | [Skippertraining Peloponnes](https://join-the-crew.com/de/touren/skippertraining-griechenland)   | Ausbildung |
+| 23.11.2024   | 15    | [Guadeloupe](https://join-the-crew.com/de/touren/mitsegeln-karibik)                              | Übersee    |
+| 22.03.2025   | 15    | [Kapverden](https://join-the-crew.com/de/touren/segeln-kapverden)                                | Übersee    |
 
 * Außerhalb dieser Törns bin ich jederzeit für Gruppenbuchungen bzw. private Törns verfügbar - einfach melden!
 * Falls Du dich auf einen Törn einbuchen möchtest, gerne vorher melden 🙂
