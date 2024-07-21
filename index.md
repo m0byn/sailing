@@ -76,19 +76,25 @@ end
 
 # Revierkenntnisse:
 
-| Region       | Land           | Revier                                  | 
-|:-------------|:---------------|:----------------------------------------|
-| Adria        | Kroatien       | Istrien (nördliche Adria                |
-| Adria        | Kroatien       | Kornaten & Mitteldalmatien              |
-| Adria        | Kroatien       | Dalmatien                               |
-| Mittelmeer   | Italien        | Amalfiküste                             |
-| Mittelmeer   | Italien        | Elba                                    |
-| Mittelmeer   | Italien        | Sardinien (inkl. La Maddalena Archipel) |
-| Mittelmeer   | Frankreich     | Korsika (Norden)                        |
-| Mittelmeer   | Frankreich     | Korsika (Süden)                         |
-| Mittelmeer   | Griechenland   | Peloponnes                              |
-| Mittelmeer   | Griechenland   | Kykladen                                |
-| Atlantik     | Azoren         | Zentrale Inselgruppe                    |
+| Region          | Land              | Revier                                    | 
+|:----------------|:------------------|:------------------------------------------|
+| Adria           | Kroatien          | Istrien (nördliche Adria                  |
+| Adria           | Kroatien          | Kornaten & Mitteldalmatien                |
+| Adria           | Kroatien          | Dalmatien                                 |
+| Dänische Südsee | Dänemark          | Ab Flensburg                              |
+| Mittelmeer      | Italien           | Amalfiküste                               |
+| Mittelmeer      | Italien           | Elba                                      |
+| Mittelmeer      | Italien           | Sardinien (inkl. La Maddalena Archipel)   |
+| Mittelmeer      | Frankreich        | Korsika (Norden)                          | 
+| Mittelmeer      | Frankreich        | Korsika (Süden)                           |
+| Mittelmeer      | Griechenland      | Peloponnes                                |
+| Mittelmeer      | Griechenland      | Kykladen                                  |
+| Atlantik        | Azoren            | Zentrale Inselgruppe                      |
+| Atlantik        | Kapverden         | Gesamte Inselgruppe ab Mindelo            |
+| Karibik         | Windward Island   | Grenada bis St. Vincent inkl. Tobago Cays |
+| Karibik         | Leeward Islands   | St. Martin - Montserrat - Barbuda etc.    |
+| SO-Asien        | Thailand          | Phuket bis Kho Rok und alles dazwischen   |
+| Nordmeer        | Norwegen          | Lofoten (Harstad bis Reine etc.           |
 
 
 Norden & Süden Korsika
