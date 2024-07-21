@@ -95,21 +95,17 @@ In folgenden Revieren war ich schon mehrere Wochen unterwegs und verfüge demnac
 | Mittelmeer      | Griechenland      | Kykladen                                  |
 
 ## Atlantik und Karibik:
-
+| Region          | Land              | Revier                                    | 
+|:----------------|:------------------|:------------------------------------------|
 | Atlantik        | Azoren            | Zentrale Inselgruppe                      |
 | Atlantik        | Kapverden         | Gesamte Inselgruppe ab Mindelo            |
 | Karibik         | Windward Island   | Grenada bis St. Vincent inkl. Tobago Cays |
 | Karibik         | Leeward Islands   | St. Martin - Montserrat - Barbuda etc.    |
 
 ## Asien:
-
+| Region          | Land              | Revier                                    | 
+|:----------------|:------------------|:------------------------------------------|
 | SO-Asien        | Thailand          | Phuket bis Kho Rok und alles dazwischen   |
-
-
-
-Norden & Süden Korsika
-
-
 
 <!--
 
