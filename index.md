@@ -75,6 +75,9 @@ end
 📧 [manu.sailing@pm.me](mailto:manu.sailing@pm.me)
 
 # Revierkenntnisse:
+In folgenden Revieren war ich schon mehrere Wochen unterwegs und verfüge demnach über einige Geheimtipps sowie spezielle Reviererfahrung!
+
+## Europa:
 
 | Region          | Land              | Revier                                    | 
 |:----------------|:------------------|:------------------------------------------|
@@ -82,6 +85,7 @@ end
 | Adria           | Kroatien          | Kornaten & Mitteldalmatien                |
 | Adria           | Kroatien          | Dalmatien                                 |
 | Dänische Südsee | Dänemark          | Ab Flensburg                              |
+| Nordmeer        | Norwegen          | Lofoten (Harstad bis Reine etc.           |
 | Mittelmeer      | Italien           | Amalfiküste                               |
 | Mittelmeer      | Italien           | Elba                                      |
 | Mittelmeer      | Italien           | Sardinien (inkl. La Maddalena Archipel)   |
@@ -89,12 +93,18 @@ end
 | Mittelmeer      | Frankreich        | Korsika (Süden)                           |
 | Mittelmeer      | Griechenland      | Peloponnes                                |
 | Mittelmeer      | Griechenland      | Kykladen                                  |
+
+## Atlantik und Karibik:
+
 | Atlantik        | Azoren            | Zentrale Inselgruppe                      |
 | Atlantik        | Kapverden         | Gesamte Inselgruppe ab Mindelo            |
 | Karibik         | Windward Island   | Grenada bis St. Vincent inkl. Tobago Cays |
 | Karibik         | Leeward Islands   | St. Martin - Montserrat - Barbuda etc.    |
+
+## Asien:
+
 | SO-Asien        | Thailand          | Phuket bis Kho Rok und alles dazwischen   |
-| Nordmeer        | Norwegen          | Lofoten (Harstad bis Reine etc.           |
+
 
 
 Norden & Süden Korsika
