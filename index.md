@@ -99,7 +99,7 @@ In folgenden Revieren war ich schon mehrere Wochen unterwegs und verfüge demnac
 |:----------------|:------------------|:------------------------------------------|
 | Atlantik        | Azoren            | Zentrale Inselgruppe                      |
 | Atlantik        | Kapverden         | Gesamte Inselgruppe ab Mindelo            |
-| Karibik         | Windward Island   | Grenada bis St. Vincent inkl. Tobago Cays |
+| Karibik         | Windward Islands  | Grenada bis St. Vincent inkl. Tobago Cays |
 | Karibik         | Leeward Islands   | St. Martin - Montserrat - Barbuda etc.    |
 
 ## Asien:
