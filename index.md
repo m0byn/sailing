@@ -74,6 +74,27 @@ end
 
 📧 [manu.sailing@pm.me](mailto:manu.sailing@pm.me)
 
+# Revierkenntnisse:
+
+| Region       | Land           | Revier                                  | 
+|:-------------|:---------------|:----------------------------------------|
+| Adria        | Kroatien       | Istrien (nördliche Adria                |
+| Adria        | Kroatien       | Kornaten & Mitteldalmatien              |
+| Adria        | Kroatien       | Dalmatien                               |
+| Mittelmeer   | Italien        | Amalfiküste                             |
+| Mittelmeer   | Italien        | Elba                                    |
+| Mittelmeer   | Italien        | Sardinien (inkl. La Maddalena Archipel) |
+| Mittelmeer   | Frankreich     | Korsika (Norden)                        |
+| Mittelmeer   | Frankreich     | Korsika (Süden)                         |
+| Mittelmeer   | Griechenland   | Peloponnes                              |
+| Mittelmeer   | Griechenland   | Kykladen                                |
+| Atlantik     | Azoren         | Zentrale Inselgruppe                    |
+
+
+Norden & Süden Korsika
+
+
+
 <!--
 
 ### Here is an unordered list:
