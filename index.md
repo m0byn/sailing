@@ -81,11 +81,11 @@ In folgenden Revieren war ich schon mehrere Wochen unterwegs und verfüge demnac
 
 | Region          | Land              | Revier                                    | 
 |:----------------|:------------------|:------------------------------------------|
-| Adria           | Kroatien          | Istrien (nördliche Adria                  |
+| Adria           | Kroatien          | Istrien (nördliche Adria)                 |
 | Adria           | Kroatien          | Kornaten & Mitteldalmatien                |
 | Adria           | Kroatien          | Dalmatien                                 |
 | Dänische Südsee | Dänemark          | Ab Flensburg                              |
-| Nordmeer        | Norwegen          | Lofoten (Harstad bis Reine etc.           |
+| Nordmeer        | Norwegen          | Lofoten (Harstad bis Reine etc.)          |
 | Mittelmeer      | Italien           | Amalfiküste                               |
 | Mittelmeer      | Italien           | Elba                                      |
 | Mittelmeer      | Italien           | Sardinien (inkl. La Maddalena Archipel)   |
