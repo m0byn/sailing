@@ -54,10 +54,8 @@ end
 
 # Segeltörns
 
-| Datum        | Tage  | Revier                     | Kategorie  |
-|:-------------|:------|:---------------------------|------------|
-| 17.08.2024   | 8     | [Dänische Südsee](https://join-the-crew.com/de/touren/mitsegeln-ostsee)                          | Abenteuer  | 
-| 24.08.2024   | 8     | [Dänische Südsee](https://join-the-crew.com/de/touren/mitsegeln-ostsee)                          | Abenteuer  | 
+| Datum        | Tage  | Revier                                                                                           | Kategorie  |
+|:-------------|:------|:-------------------------------------------------------------------------------------------------|------------|
 | 14.09.2024   | 8     | [SKS Kroatien](https://join-the-crew.com/de/touren/sks-ausbildungstoern-kroatien)                | Ausbildung |
 | 21.09.2024   | 8     | [SKS Kroatien](https://join-the-crew.com/de/touren/sks-ausbildungstoern-kroatien)                | Ausbildung |
 | 28.09.2024   | 8     | [Skippertraining Kroatien](https://join-the-crew.com/de/touren/skippertraining-kroatien)         | Ausbildung |
