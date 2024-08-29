@@ -81,7 +81,7 @@ In folgenden Revieren war ich schon mehrere Wochen unterwegs und verfüge demnac
 | Adria           | Kroatien          | Istrien (nördliche Adria)                 |
 | Adria           | Kroatien          | Kornaten & Mitteldalmatien                |
 | Adria           | Kroatien          | Dalmatien                                 |
-| Dänische Südsee | Dänemark          | Ab Flensburg                              |
+| Dänische Südsee | Dänemark          | Ab Flensburg gen Nordosten                |
 | Nordmeer        | Norwegen          | Lofoten (Harstad bis Reine etc.)          |
 | Mittelmeer      | Italien           | Amalfiküste                               |
 | Mittelmeer      | Italien           | Elba                                      |
