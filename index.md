@@ -56,6 +56,7 @@ end
 
 | Datum        | Tage  | Revier                                                                                           | Kategorie  |
 |:-------------|:------|:-------------------------------------------------------------------------------------------------|------------|
+
 <!--| 14.09.2024   | 8     | [SKS Kroatien](https://join-the-crew.com/de/touren/sks-ausbildungstoern-kroatien)                | Ausbildung |
 | 21.09.2024   | 8     | [SKS Kroatien](https://join-the-crew.com/de/touren/sks-ausbildungstoern-kroatien)                | Ausbildung |-->
 
