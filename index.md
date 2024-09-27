@@ -56,10 +56,6 @@ end
 
 | Datum        | Tage  | Revier                                                                                           | Kategorie  |
 |:-------------|:------|:-------------------------------------------------------------------------------------------------|------------|
-
-<!--| 14.09.2024   | 8     | [SKS Kroatien](https://join-the-crew.com/de/touren/sks-ausbildungstoern-kroatien)                | Ausbildung |
-| 21.09.2024   | 8     | [SKS Kroatien](https://join-the-crew.com/de/touren/sks-ausbildungstoern-kroatien)                | Ausbildung |-->
-
 | 28.09.2024   | 8     | [Skippertraining Kroatien](https://join-the-crew.com/de/touren/skippertraining-kroatien)         | Ausbildung |
 
 | 22.03.2025   | 15    | [Kapverden](https://join-the-crew.com/de/touren/segeln-kapverden)                                | Übersee    |
