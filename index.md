@@ -56,7 +56,6 @@ end
 
 | Datum        | Tage  | Revier                                                                                           | Kategorie  |
 |:-------------|:------|:-------------------------------------------------------------------------------------------------|------------|
-| 28.09.2024   | 8     | [Skippertraining Kroatien](https://join-the-crew.com/de/touren/skippertraining-kroatien)         | Ausbildung |
 | 22.03.2025   | 15    | [Kapverden](https://join-the-crew.com/de/touren/segeln-kapverden)                                | Übersee    |
 
 * Außerhalb dieser Törns bin ich jederzeit für Gruppenbuchungen bzw. private Törns verfügbar - einfach melden!
