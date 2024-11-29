@@ -56,6 +56,7 @@ end
 
 | Datum        | Tage  | Revier                                                                                           | Kategorie  |
 |:-------------|:------|:-------------------------------------------------------------------------------------------------|------------|
+| 28.12.2024   | 10    | [Seychellen](https://join-the-crew.com/de/touren/segelurlaub-seychellen)                         | Übersee    |
 | 22.03.2025   | 15    | [Kapverden](https://join-the-crew.com/de/touren/segeln-kapverden)                                | Übersee    |
 
 * Außerhalb dieser Törns bin ich jederzeit für Gruppenbuchungen bzw. private Törns verfügbar - einfach melden!
