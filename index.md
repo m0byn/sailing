@@ -89,7 +89,7 @@ In folgenden Revieren war ich schon mehrere Wochen unterwegs und verfüge demnac
 | Mittelmeer      | Griechenland      | Peloponnes                                |
 | Mittelmeer      | Griechenland      | Kykladen                                  |
 
-## Atlantik und Karibik:
+## Übersee:
 
 | Region          | Land              | Revier                                    | 
 |:----------------|:------------------|:------------------------------------------|
@@ -97,12 +97,8 @@ In folgenden Revieren war ich schon mehrere Wochen unterwegs und verfüge demnac
 | Atlantik        | Kapverden         | Gesamte Inselgruppe ab Mindelo            |
 | Karibik         | Windward Islands  | Grenada bis St. Vincent inkl. Tobago Cays |
 | Karibik         | Leeward Islands   | St. Martin - Montserrat - Barbuda etc.    |
-
-## Asien:
-
-| Region          | Land              | Revier                                    | 
-|:----------------|:------------------|:------------------------------------------|
-| SO-Asien        | Thailand          | Phuket bis Kho Rok und alles dazwischen   |
+| Andamanensee    | Thailand          | Phuket bis Kho Rok und alles dazwischen   |
+| Indischer Ozean | Seychellen        | Mahé und NE-Inselgruppe inkl. Grand Anse  |
 
 <!--
 
