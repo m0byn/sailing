@@ -81,7 +81,7 @@ In folgenden Revieren war ich schon mehrere Wochen unterwegs und verfüge demnac
 | Adria           | Kroatien          | Dalmatien                                 |
 | Ostsee (Dänische Südsee) | Dänemark | Sonderburg-Faaborg-Aeroskoping usw.       |
 | Nordmeer        | Norwegen          | Lofoten (Harstad bis Reine etc.)          |
-| (Ostsee schwedische Schären) | Schweden | Schären ab Stockholm                  |
+| Ostsee (Schwedische Schären) | Schweden | Schären ab Stockholm                  |
 | Mittelmeer      | Italien           | Amalfiküste                               |
 | Mittelmeer      | Italien           | Elba                                      |
 | Mittelmeer      | Italien           | Sardinien (inkl. La Maddalena Archipel)   |
