@@ -56,8 +56,8 @@ end
 
 | Datum        | Tage  | Revier                                                                                           | Kategorie  |
 |:-------------|:------|:-------------------------------------------------------------------------------------------------|------------|
-| 28.12.2024   | 10    | [Seychellen](https://join-the-crew.com/de/touren/segelurlaub-seychellen)                         | Übersee    |
 | 22.03.2025   | 15    | [Kapverden](https://join-the-crew.com/de/touren/segeln-kapverden)                                | Übersee    |
+| 16.08.2025   | 7    | [Schwedische Schären](https://join-the-crew.com/de/touren/segeln-schweden)                        | Abenteuer  |
 
 * Außerhalb dieser Törns bin ich jederzeit für Gruppenbuchungen bzw. private Törns verfügbar - einfach melden!
 * Falls Du dich auf einen Törn einbuchen möchtest, gerne vorher melden 🙂
@@ -79,8 +79,9 @@ In folgenden Revieren war ich schon mehrere Wochen unterwegs und verfüge demnac
 | Adria           | Kroatien          | Istrien (nördliche Adria)                 |
 | Adria           | Kroatien          | Kornaten & Mitteldalmatien                |
 | Adria           | Kroatien          | Dalmatien                                 |
-| Dänische Südsee | Dänemark          | Ab Flensburg gen Nordosten                |
+| Ostsee (Dänische Südsee) | Dänemark | Sonderburg-Faaborg-Aeroskoping usw.       |
 | Nordmeer        | Norwegen          | Lofoten (Harstad bis Reine etc.)          |
+| (Ostsee schwedische Schären) | Schweden | Schären ab Stockholm                  |
 | Mittelmeer      | Italien           | Amalfiküste                               |
 | Mittelmeer      | Italien           | Elba                                      |
 | Mittelmeer      | Italien           | Sardinien (inkl. La Maddalena Archipel)   |
@@ -98,7 +99,7 @@ In folgenden Revieren war ich schon mehrere Wochen unterwegs und verfüge demnac
 | Karibik         | Windward Islands  | Grenada bis St. Vincent inkl. Tobago Cays |
 | Karibik         | Leeward Islands   | St. Martin - Montserrat - Barbuda etc.    |
 | Andamanensee    | Thailand          | Phuket bis Kho Rok und alles dazwischen   |
-| Indischer Ozean | Seychellen        | Mahé und NE-Inselgruppe inkl. Grand Anse  |
+| Indischer Ozean | Seychellen        | Mahé-Praslin-La Digue-Ile Curieuse usw.   |
 
 <!--
 
