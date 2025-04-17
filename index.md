@@ -95,7 +95,7 @@ In folgenden Revieren war ich schon mehrere Wochen unterwegs und verfüge demnac
 | Region          | Land              | Revier                                    | 
 |:----------------|:------------------|:------------------------------------------|
 | Atlantik        | Azoren            | Zentrale Inselgruppe                      |
-| Atlantik        | Kapverden         | Gesamte Inselgruppe ab Mindelo            |
+| Atlantik        | Kapverden         | Gesamte Inselgruppe außer Praia & Brava   |
 | Karibik         | Windward Islands  | Grenada bis St. Vincent inkl. Tobago Cays |
 | Karibik         | Leeward Islands   | St. Martin - Montserrat - Barbuda etc.    |
 | Andamanensee    | Thailand          | Phuket bis Kho Rok und alles dazwischen   |
