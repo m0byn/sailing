@@ -56,7 +56,7 @@ end
 
 | Datum        | Tage  | Revier                                                                                           | Kategorie  |
 |:-------------|:------|:-------------------------------------------------------------------------------------------------|------------|
-| 16.08.2025   | 7    | [Schwedische Schären](https://join-the-crew.com/de/touren/segeln-schweden)                        | Abenteuer  |
+| 25.10.2025   | 7    | [Dodekanes ab Rhodos]()                        | Abenteuer  |
 
 * Außerhalb dieser Törns bin ich jederzeit für Gruppenbuchungen bzw. private Törns verfügbar - einfach melden!
 * Falls Du dich auf einen Törn einbuchen möchtest, gerne vorher melden 🙂
@@ -88,6 +88,7 @@ In folgenden Revieren war ich schon mehrere Wochen unterwegs und verfüge demnac
 | Mittelmeer      | Frankreich        | Korsika (Süden)                           |
 | Mittelmeer      | Griechenland      | Peloponnes                                |
 | Mittelmeer      | Griechenland      | Kykladen                                  |
+| Mittelmeer      | Griechenland      | Dodekanes                                  |
 
 ## Übersee:
 
