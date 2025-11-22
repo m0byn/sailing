@@ -88,7 +88,7 @@ In folgenden Revieren war ich schon mehrere Wochen unterwegs und verfüge demnac
 | Mittelmeer      | Frankreich        | Korsika (Süden)                           |
 | Mittelmeer      | Griechenland      | Peloponnes                                |
 | Mittelmeer      | Griechenland      | Kykladen                                  |
-| Mittelmeer      | Griechenland      | Dodekanes                                  |
+| Mittelmeer      | Griechenland      | Dodekanes Süd (ab Rhodos)                 |
 
 ## Übersee:
 
