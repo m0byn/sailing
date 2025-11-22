@@ -56,7 +56,7 @@ end
 
 | Datum        | Tage  | Revier                                                                                           | Kategorie  |
 |:-------------|:------|:-------------------------------------------------------------------------------------------------|------------|
-| 25.10.2025   | 7    | [Dodekanes ab Rhodos]()                        | Abenteuer  |
+| 25.07.2026   | 14    | [Französisch Polynesien (um Bora Bora)](https://join-the-crew.com/de/touren/franzoesisch-polynesien-segeln) | Abenteuer  |
 
 * Außerhalb dieser Törns bin ich jederzeit für Gruppenbuchungen bzw. private Törns verfügbar - einfach melden!
 * Falls Du dich auf einen Törn einbuchen möchtest, gerne vorher melden 🙂
